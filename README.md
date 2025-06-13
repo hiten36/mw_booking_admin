@@ -2,6 +2,11 @@
 
 A modern React + TypeScript admin dashboard for managing appointment bookings, built with Vite and Redux Toolkit.
 
+## Test Credentials
+
+Email: admin@admin.com
+Password: Test@123
+
 ## Features
 
 - **Modern Authentication**: Beautiful login form with JWT token management
